@@ -12,6 +12,8 @@ Usos de GIT
 * Notas:
   .git: Archivos que no se les pone mucho cuidado.
 
+  .gitignore: Texts is ignore in the field a folders and field specific. 
+
 * Flujo que maneja GIT
   Etapa Stage: Etapa intermedia, para identificar cuales son los cambios para poder pasar los cambios al repo.
 
