@@ -28,3 +28,4 @@ Usos de GIT
 - pwd: Carpeta actual.
 - cd: Navegar entre carpetas
 - cd .. : Devolver la carpeta que se encuentra
+- rm: Es aquel que elimina un archivo
