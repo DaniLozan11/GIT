@@ -28,6 +28,7 @@ Usos de GIT
   - "git commit" : Sube el archivo ya con los cambios.
   - "git diff": Muestra los cambios que se van a modificar.
   -"git log --oneline": Muestra el historial de todos los commits realizados.
+  -"cat <archivo>": Muestra los cambios que fueron realizados durante otra rama.
 
 - ls: Carpetas de el computador.
 - pwd: Carpeta actual.
@@ -37,3 +38,8 @@ Usos de GIT
 - mv: Mover archivo - 2 params: (nombre del archivo, nombre del archivo nuevo)
 
 - git status -s: Status mas corto
+
+* Ramas en GIT:
+  Se pueden agregar muchos cambios, intentar devolvernos a las ramas principales de git. 
+
+  Crear una rama a la cual le vamos agregar commits, no depende de la rama principal, merch a la rama de "main".
