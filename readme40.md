@@ -29,3 +29,4 @@ Usos de GIT
 - cd: Navegar entre carpetas
 - cd .. : Devolver la carpeta que se encuentra
 - rm: Es aquel que elimina un archivo
+- mv: Mover archivo - 2 params: (nombre del archivo, nombre del archivo nuevo) 
