@@ -40,6 +40,6 @@ Usos de GIT
 - git status -s: Status mas corto
 
 * Ramas en GIT:
-  Se pueden agregar muchos cambios, intentar devolvernos a las ramas principales de git. 
+  Se pueden agregar muchos cambios, intentar devolvernos a las ramas principales de git.
 
   Crear una rama a la cual le vamos agregar commits, no depende de la rama principal, merch a la rama de "main".
