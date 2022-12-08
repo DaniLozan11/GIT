@@ -12,7 +12,7 @@ Usos de GIT
 * Notas:
   .git: Archivos que no se les pone mucho cuidado.
 
-  .gitignore: Texts is ignore in the field a folders and field specific. 
+  .gitignore: Texts is ignore in the field a folders and field specific.
 
 * Flujo que maneja GIT
   Etapa Stage: Etapa intermedia, para identificar cuales son los cambios para poder pasar los cambios al repo.
@@ -26,10 +26,14 @@ Usos de GIT
   - "git status": Es aquel que muestra los archivos pendientes y los cuales se les realizaron cambios nuevos.
   - "git add": Seleccionar los archivos que queremos subir a git, con los cambios ya hechos. Ejemplo: git .add "<Nombre del archivo>"
   - "git commit" : Sube el archivo ya con los cambios.
+  - "git diff": Muestra los cambios que se van a modificar.
+  -"git log --oneline": Muestra el historial de todos los commits realizados.
 
 - ls: Carpetas de el computador.
 - pwd: Carpeta actual.
 - cd: Navegar entre carpetas
 - cd .. : Devolver la carpeta que se encuentra
 - rm: Es aquel que elimina un archivo
-- mv: Mover archivo - 2 params: (nombre del archivo, nombre del archivo nuevo) 
+- mv: Mover archivo - 2 params: (nombre del archivo, nombre del archivo nuevo)
+
+- git status -s: Status mas corto
