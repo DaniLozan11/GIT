@@ -23,6 +23,7 @@ Usos de GIT
   - "git config -h": Configuracion global de GIT
   - "git status": Es aquel que muestra los archivos pendientes y los cuales se les realizaron cambios nuevos.
   - "git add": Seleccionar los archivos que queremos subir a git, con los cambios ya hechos. Ejemplo: git .add "<Nombre del archivo>"
+  - "git commit" : Sube el archivo ya con los cambios.
 
 - ls: Carpetas de el computador.
 - pwd: Carpeta actual.
